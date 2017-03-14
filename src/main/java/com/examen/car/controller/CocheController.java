@@ -21,7 +21,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.examen.car.model.Coche;
 import com.examen.car.repository.CocheRepository;
 import com.examen.car.service.CocheService;
-import com.examples.spring.model.Persona;
 
 
 /**
@@ -89,6 +88,7 @@ public class CocheController {
 	
 	
 	
+	}
 }
 	
 	
